@@ -1,0 +1,10 @@
+{
+    "port": 5000,
+    "ip": "127.0.0.1",
+    "dns": "example.com",
+    "auth": "1234567890",
+    "path": "C:\\Users\\pavlo\\Desktop\\passwor_python",
+    "key": "key.pem",
+    "cert": "cert.pem",
+    "log": "C:\\Users\\pavlo\\Desktop\\passwor_python\\server.log"
+}
